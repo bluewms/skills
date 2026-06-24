@@ -1,10 +1,7 @@
-# LangWIKI Skills
 
-CodeBuddy 自定义 Skill 集合。
+# Skills
 
-## Skills
-
-### langwiki-okf
+## langwiki-okf
 
 从本地文件（PDF/Word/Excel/PPT/Markdown/代码等 16 种格式）或远程 API 生成 OKF（开放知识格式）知识包。
 
