@@ -16,9 +16,7 @@
 ## 安装
 
 ```bash
-# 将 skill 安装到 CodeBuddy
-cp -r langwiki-okf ~/.codebuddy/skills/
+# 将 skill 安装到 
+cp -r langwiki-okf ~/skills/
 
-# 或从 zip 安装
-# 在 CodeBuddy 中执行: install skill from langwiki-okf.zip
 ```
