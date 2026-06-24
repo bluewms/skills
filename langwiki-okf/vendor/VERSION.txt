@@ -1,0 +1,6 @@
+vendor: reference-agent
+upstream_repo: https://github.com/bluewms/knowledge-catalog
+upstream_branch: zh
+upstream_commit: b4a3d8c
+snapshot_date: 2026-06-24
+snapshot_scope: knowledge-catalog/okf/src/reference_agent
